@@ -31,6 +31,6 @@ Unlike basic CORS scanners, `cors_hunter.py` includes built-in **consistency che
 Since it uses only the standard library, you just need to download the script and make it executable. Requires **Python 3**.
 
 ```bash
-git clone [https://github.com/markamsecurity/cors-hunter.git](https://github.com/markamsecurity/cors-hunter.git)
+git clone https://github.com/markamsecurity/cors-hunter.git
 cd cors-hunter
 chmod +x cors_hunter.py
